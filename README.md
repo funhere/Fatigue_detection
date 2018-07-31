@@ -53,6 +53,4 @@ pudb3 driver_tracking/distraction_detector.py -p resources/models/shape_predicto
     1. opencv 3.3
 
 
-### References
-1. original: https://github.com/pmathur5k10/driver-drowsiness-detection.git
 
