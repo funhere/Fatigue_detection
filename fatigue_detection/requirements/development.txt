@@ -1,0 +1,19 @@
+-r common.txt
+
+# not for rpi
+opencv-python
+
+# To run alert_machine.py
+pygraphviz
+
+# To debug
+ipdb
+pudb
+pylint
+
+# Development
+ansible
+
+# analysis
+#nb_conda
+pandas

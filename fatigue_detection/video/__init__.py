@@ -1,0 +1,1 @@
+ALL = ['detection_rules', 'frame_series.py']

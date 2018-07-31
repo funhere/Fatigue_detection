@@ -1,0 +1,16 @@
+aenum
+colorama
+dlib
+imutils
+numpy>=1.8 #for matplotlib, opencv
+matplotlib
+
+profilehooks
+pytk
+singleton_decorator
+structlog
+scipy
+transforms3d
+transitions
+
+
