@@ -23,8 +23,6 @@ source activate drowsiness_detection
 pip install -r requirements.txt
 ```
 
-~~1. Download `shape_predictor_68_face_landmarks.dat` on to resources/models/~~
-
 
 ### Run
 ```sh
